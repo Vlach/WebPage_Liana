@@ -1,0 +1,15 @@
+{
+  "name": "liana",
+  "version": "1.0.0",
+  "description": "That is first assignment for Liana Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladilav Lakhmaniuk",
+  "license": "MIT",
+  "dependencies": {
+    "countup.js": "^1.9.3",
+    "waypoints": "^4.0.1"
+  }
+}
