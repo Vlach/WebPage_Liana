@@ -1,0 +1,252 @@
+#Bar {
+    background-color: #2D912F;
+    height: 50px;
+    width: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#jumbutton {
+    color: gainsboro;
+    margin-top: 23px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #2D912F;
+}
+
+#greenicons {
+    margin: 30px 5px;
+}
+
+#ref .card-body {
+    border-top: 1px solid lightgray;
+}
+
+#ref .card-body {
+    padding: 20px 20px;
+}
+
+#ref .card-img-top {
+    padding: 10px 0;
+}
+
+#ref h5 {
+    font-weight: 300;
+}
+
+#ref p {
+    color: rgb(176, 176, 177);
+    font-weight: 300;
+    font-size: 13px;
+}
+
+#subscribe-section {
+    padding: 0 0 40px 0;
+    border-top: 1px solid lightgray;
+    margin-top: 40px;
+}
+
+#subs {
+    width: 20rem;
+}
+
+#subs .btn.btn-outline-success,
+#contactusfooters a {
+    padding-bottom: 5px;
+    color: white;
+    background-color: #2D912F;
+    background-image: none;
+    border-color: #2D912F;
+}
+
+#subscribe-section .section-title {
+    padding-bottom: 10px;
+}
+
+#subscribe-section p {
+    font-weight: 200;
+    font-size: 13px;
+}
+
+#footer {
+    background-color: black;
+    padding: 0;
+}
+
+#card-section .container-fluid {
+    padding: 0;
+}
+
+#contacts {
+    font-size: 13px;
+    font-weight: 200;
+    padding: 0;
+}
+
+#contacts p {
+    margin: 0;
+}
+
+#linksfooter {
+    padding: 0 30px;
+}
+
+#contactusfooter {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#Bar {
+    padding: 0 5%;
+    font-size: 13px;
+    font-weight: 200;
+}
+
+.collapse.navbar-collapse {
+    margin-right: 4%;
+}
+
+.navbar-brand {
+    margin-left: 5%;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-whtie {
+    padding: 1em;
+}
+
+button.btn.btn-outline-success {
+    padding-bottom: 5px;
+    color: white;
+    background-color: #2D912F;
+    background-image: none;
+    border-color: #2D912F;
+}
+
+/* parallax section */
+
+.paral {
+    min-height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+/* Paragraph for Parallax Section */
+
+.paral p {
+    font-size: 24px;
+    color: #f5f5f5;
+    text-align: center;
+    line-height: 60px;
+}
+
+/* Heading for Parallax Section */
+
+.paral h1 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 50px;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+/* Background Image for parallax */
+
+.paralsec {
+    background-image: url('parallax.png');
+    background-repeat: inherit;
+}
+
+/* Remove Bottom Margin from Jumbotron */
+
+.jumbotron {
+    margin-bottom: 25px;
+}
+
+.card-deck {
+    margin: 0 50px;
+}
+
+.card-img {
+    height: 90%;
+}
+
+.card {
+    border: none;
+}
+
+.textcard {
+    position: relative;
+    color: white;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icon {
+    padding-right: 10px;
+}
+
+.numcol {
+    margin: 0;
+    padding: 0;
+}
+
+.numbers {
+    font-size: 45px;
+    font-weight: 100;
+    margin: 0;
+}
+
+.section-title {
+    font-size: 25px;
+    color: black;
+    padding: 30px;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.news-cards {
+    background-color: rgb(235, 238, 239);
+    padding-bottom: 25px;
+}
+
+.card-deck p {
+    font-size: 15px;
+}
+
+.card-deck h6 {
+    font-size: 11px;
+    color: rgb(176, 176, 177);
+}
+
+.references {
+    border: 1px solid lightgray;
+}
+
+.sub-text {
+    font-size: 15px;
+    color: rgb(176, 176, 177);
+}
+
+.links {
+    padding: 20px 0;
+}
+
+.links-right {
+    font-size: 13px;
+    font-weight: 200;
+}
+
+.footer-icons {
+    background-color: white;
+    width: 4%;
+    height: 4%;
+}
+
+.pointer {
+    cursor: pointer;
+}
