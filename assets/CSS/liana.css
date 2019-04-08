@@ -1,6 +1,7 @@
 body {
     overflow-x: hidden;
     width: 100%;
+    position: relative;
 }
 #Bar {
     background-color: #2D912F;
