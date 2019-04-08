@@ -251,8 +251,6 @@ button.btn.btn-outline-success {
 .pointer {
     cursor: pointer;
 }
-html, body{
-  overflow-x:hidden;
-    max-width:100%;
-    position:absolute;
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+width: 100%;
 }
