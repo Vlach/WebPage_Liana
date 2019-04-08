@@ -254,5 +254,5 @@ button.btn.btn-outline-success {
 html, body {
   max-width: 100%;
   overflow-x: hidden;
-    position: absolute;
+    position: relative;
 }
