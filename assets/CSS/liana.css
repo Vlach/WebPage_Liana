@@ -1,8 +1,4 @@
-html, body{
-  overflow-x:hidden;
-    max-width:100%;
-    position:absolute;
-}
+
 #Bar {
     background-color: #2D912F;
     height: 50px;
@@ -254,4 +250,9 @@ button.btn.btn-outline-success {
 
 .pointer {
     cursor: pointer;
+}
+html, body{
+  overflow-x:hidden;
+    max-width:100%;
+    position:absolute;
 }
